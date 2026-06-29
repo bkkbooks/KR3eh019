@@ -1,0 +1,554 @@
+canonical_identifier: bkk:krp/KR3eh019/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh019/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 通俗內科學
+  identifiers:
+    krp: KR3eh019
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh019.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh019_000-jc.yaml, hash: 'sha256:f9d0bac371f060acbdb7e76094e988ad441975c07991d143cf87d7e747efeeb8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh019_000-jc.markers.yaml, hash: 'sha256:fa5eecf6e989c31bb9630a9456de59f46374149a01014dc59b833104de7cd3e7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 468
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 151
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4.h1s1
+    span:
+    - body
+    - 151
+    - 5460
+  label: 傳染病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d2
+    span:
+    - body
+    - 154
+    - 1043
+  label: 傷寒腸窒扶斯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d3
+    span:
+    - body
+    - 1043
+    - 1510
+  label: 爛喉痧實扶的里亞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d4
+    span:
+    - body
+    - 1510
+    - 2211
+  label: 霍亂虎列剌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d5
+    span:
+    - body
+    - 2211
+    - 2671
+  label: 瘧疾間歇熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d6
+    span:
+    - body
+    - 2671
+    - 3405
+  label: 赤痢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d7
+    span:
+    - body
+    - 3405
+    - 3919
+  label: 麻疹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d8
+    span:
+    - body
+    - 3919
+    - 4744
+  label: 梅毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d9
+    span:
+    - body
+    - 4744
+    - 5078
+  label: 淋病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d4d10
+    span:
+    - body
+    - 5078
+    - 5460
+  label: 癩病麻風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5.h1s1
+    span:
+    - body
+    - 5460
+    - 7886
+  label: 呼吸器病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5d2
+    span:
+    - body
+    - 5464
+    - 5748
+  label: 感冒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5d3
+    span:
+    - body
+    - 5748
+    - 6573
+  label: 肺勞肺結核
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5d4
+    span:
+    - body
+    - 6573
+    - 7129
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5d5
+    span:
+    - body
+    - 7129
+    - 7443
+  label: 咯血肺出血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d5d6
+    span:
+    - body
+    - 7443
+    - 7886
+  label: 百日咳連聲咳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d6.h1s1
+    span:
+    - body
+    - 7886
+    - 8459
+  label: 循環器病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d6d2
+    span:
+    - body
+    - 7890
+    - 8101
+  label: 心忪神經性心悸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d6d3
+    span:
+    - body
+    - 8101
+    - 8459
+  label: 真心痛心臟痙攣又名絞心症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7.h1s1
+    span:
+    - body
+    - 8459
+    - 13300
+  label: 消化器病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d2
+    span:
+    - body
+    - 8463
+    - 8688
+  label: 鵝口寄生性口內炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d3
+    span:
+    - body
+    - 8688
+    - 8986
+  label: 喉痹扁桃腺炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d4
+    span:
+    - body
+    - 8986
+    - 9504
+  label: 咽炎咽頭加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d5
+    span:
+    - body
+    - 9504
+    - 9775
+  label: 走馬牙疳水腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d6
+    span:
+    - body
+    - 9775
+    - 10466
+  label: 食傷胃加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d7
+    span:
+    - body
+    - 10466
+    - 10826
+  label: 胃痛胃痙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d8
+    span:
+    - body
+    - 10826
+    - 11412
+  label: 泄瀉腸加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d9
+    span:
+    - body
+    - 11412
+    - 11706
+  label: 吐血胃出血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d10
+    span:
+    - body
+    - 11706
+    - 11915
+  label: 便血腸出血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d11
+    span:
+    - body
+    - 11915
+    - 12220
+  label: 秘結便秘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d12
+    span:
+    - body
+    - 12220
+    - 12518
+  label: 絛蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d13
+    span:
+    - body
+    - 12518
+    - 12740
+  label: 十二指腸蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d14
+    span:
+    - body
+    - 12740
+    - 12936
+  label: 蛔蟲蛔蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d7d15
+    span:
+    - body
+    - 12936
+    - 13300
+  label: 脾胃虛弱消化不良
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8.h1s1
+    span:
+    - body
+    - 13300
+    - 14564
+  label: 泌尿器病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8d2
+    span:
+    - body
+    - 13304
+    - 13492
+  label: 小便不通膀胱麻痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8d3
+    span:
+    - body
+    - 13492
+    - 13699
+  label: 遺尿小便自利
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8d4
+    span:
+    - body
+    - 13699
+    - 13880
+  label: 陰痿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8d5
+    span:
+    - body
+    - 13880
+    - 14127
+  label: 夢遺遺精
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d8d6
+    span:
+    - body
+    - 14127
+    - 14564
+  label: 白濁膀胱加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d9.h1s1
+    span:
+    - body
+    - 14564
+    - 15545
+  label: 運動器病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d9d2
+    span:
+    - body
+    - 14568
+    - 14865
+  label: 萎黃病黃胖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d9d3
+    span:
+    - body
+    - 14865
+    - 15187
+  label: 消渴糖尿病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d9d4
+    span:
+    - body
+    - 15187
+    - 15545
+  label: 風痛尿酸性關節炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10.h1s1
+    span:
+    - body
+    - 15545
+    - 17184
+  label: 神經系病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d2
+    span:
+    - body
+    - 15549
+    - 16038
+  label: 中風腦出血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d3
+    span:
+    - body
+    - 16038
+    - 16345
+  label: 癲癇羊癇風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d4
+    span:
+    - body
+    - 16345
+    - 16686
+  label: 臟躁歇斯的里
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d5
+    span:
+    - body
+    - 16686
+    - 16950
+  label: 偏頭痛半頭風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d6
+    span:
+    - body
+    - 16950
+    - 17023
+  label: 眩暈頭目眩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh019_jc_000-d10d7
+    span:
+    - body
+    - 17023
+    - 17184
+  label: 中暑日射病
+  type: section
+  level: 2
+hash: sha256:f853bb305f51f653dd29eac1725998e14bb6d74044546eeec200d89486870ab3
