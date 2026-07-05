@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh019_000.yaml, hash: 'sha256:e72e7570daee054cef7d71f4e71b9976772c5e1d4e832dae29a87da7b3866fe1'}
+  - {seq: 0, filename: KR3eh019_000.yaml, hash: 'sha256:f9d0bac371f060acbdb7e76094e988ad441975c07991d143cf87d7e747efeeb8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:2a439c22b4a3d7eba0151a222efcb9226005182ffe92254159b37f2eb8c1e64d'}
+  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:378af55dcc9151401a95a66bee5c9e2708e68c06b2caab6a16b27c7723319c1f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,7 +551,4 @@ table_of_contents:
   label: 中暑日射病
   type: section
   level: 2
-hash: sha256:b48a728e0e8909486542a21b78fce52c8c756f8628e6041bd7636f22a458befb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ec4131e30dd23f4518dd2436e6954e46e836419daf0f9e9c0235ac4896a7713c
