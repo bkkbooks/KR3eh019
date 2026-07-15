@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh019/v1
 canonical_location: https://kanripo.org/bkk/KR3eh019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 通俗內科學
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh019_000.yaml, hash: 'sha256:f9d0bac371f060acbdb7e76094e988ad441975c07991d143cf87d7e747efeeb8'}
+  - {seq: 0, filename: KR3eh019_000.yaml, hash: 'sha256:587891e4b99a08bb98a3a11df15c57959395a379d94bf209a7a881d3c0617c08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:378af55dcc9151401a95a66bee5c9e2708e68c06b2caab6a16b27c7723319c1f'}
+  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:7a17eafb1c970ebe9a36813b45e4587b3b97eb31b513e078680911d4878d91fd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,4 +551,7 @@ table_of_contents:
   label: 中暑日射病
   type: section
   level: 2
-hash: sha256:ec4131e30dd23f4518dd2436e6954e46e836419daf0f9e9c0235ac4896a7713c
+hash: sha256:56fec82fea28545721ecc01936c4ee19b4d17c96a0a8c12d460de2405206e98d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
