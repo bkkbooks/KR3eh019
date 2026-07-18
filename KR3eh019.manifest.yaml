@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh019_000.yaml, hash: 'sha256:587891e4b99a08bb98a3a11df15c57959395a379d94bf209a7a881d3c0617c08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:7a17eafb1c970ebe9a36813b45e4587b3b97eb31b513e078680911d4878d91fd'}
+  - {seq: 0, role: markers, filename: assets/KR3eh019_000.markers.yaml, hash: 'sha256:0b8116d18f0d64ce44ef88be3f7224d7a509f3de10a31d66f076baaf73a81ca8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,7 +551,7 @@ table_of_contents:
   label: 中暑日射病
   type: section
   level: 2
-hash: sha256:56fec82fea28545721ecc01936c4ee19b4d17c96a0a8c12d460de2405206e98d
+hash: sha256:cd3d226e9223c3a656288e1ff4a9a4464f44599227721214f0e5678723a99561
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
